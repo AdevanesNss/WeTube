@@ -9,5 +9,10 @@ Na janela principal, você insere o link do vídeo na barra de pesquisa e clica 
 
 A janela retornará informações do vídeo como título, duração e visualizações. Para baixar, você configura suas preferências e clica em baixar. Você também pode ir para o YouTube clicando em "Ver no YouTube".
 
+![image](https://user-images.githubusercontent.com/88598601/142732675-f39a0ece-d13f-4022-a6c7-3ad5d97af3ec.png)
+
+Após isso, basta seguir os popups da aplicação.
+
+
 
 
