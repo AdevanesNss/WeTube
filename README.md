@@ -1,7 +1,9 @@
 # WeTube
-Aplicativo para Downloads de vídeos e áudios do YouTube (WINDOWS)
+Aplicativo para Downloads de vídeos e áudios do YouTube
 
 USO
+
+RECOMENDA-SE UTILIZAR O APP EM FORMATO .EXE. BAIXE O CÓDIGO APENAS SE FOR UTILIZAR EM OUTRAS PLATAFORMAS (NÃO WINDOWS) OU SE FOR ESTUDAR OU MODIFICÁ-LO.
 
 ![image](https://user-images.githubusercontent.com/88598601/142732506-52e48ae6-2124-4cd8-ae08-a0d9d6318c05.png)
 
@@ -17,6 +19,9 @@ Após isso, basta seguir os popups da aplicação.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
+CÓDIGO
+
+Não fiz na finalidade de compartilhar, tomei essa decisão posteriormente. Portanto, o código não está tão limpo. Com o decorrer do tempo, vou melhorando. 
 
 
 
